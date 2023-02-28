@@ -13,16 +13,18 @@
 
 <p>
 
-Estudando/trabalhando para me tornar um **Dev Full Stack**<br/>
+Estudando/trabalhando para me tornar um **Dev Full Stack.**<br/>
+  
+Eu sou formado em **Análise e Desenvolvimento de Sistemas,**
 
-Eu sou Formado em **Análise e Desenvolvimento de Sistema**.
-
-Tenho uma **Pós-Graduação de Banco de Dados e Business Intelligence**.
+Tenho uma **Pós-Graduação de Banco de Dados e Business Intelligence**
+  
+e buscando mais Desenvolvimento pessoal no qual almejo dentre outras metas graus académicos mais elevados.
 
 </p>
 <hr>
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> :earth_americas: &nbsp;Mais informações e contato: </h3> 
 
 [![Linkedin: SEU NOME](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanjeilson)](https://www.linkedin.com/in/vanjeilson)
 [![Gmail Badge](https://img.shields.io/badge/-Microsoft_Outlook-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:vanjeilson@hotmail.com)
