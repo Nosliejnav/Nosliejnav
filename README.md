@@ -13,13 +13,13 @@
 
 <p>
 
-Estudando/trabalhando para me tornar um **Dev Full Stack.**<br/>
+📚 Estudando/trabalhando para me tornar um **Dev Full Stack.**<br/>
   
-Eu sou formado em **Análise e Desenvolvimento de Sistemas,**
+Eu sou formado em 🎓 **Análise e Desenvolvimento de Sistemas,**
 
-Tenho uma **Pós-Graduação de Banco de Dados e Business Intelligence**
+Tenho uma 🎓 **Pós-Graduação de Banco de Dados e Business Intelligence**
   
-e buscando mais Desenvolvimento pessoal no qual almejo dentre outras metas conquistar.
+e buscando mais Desenvolvimento pessoal no qual almejo dentre outras metas conquistar 🙏.
 
 </p>
 <hr>
