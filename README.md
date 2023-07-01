@@ -20,9 +20,12 @@
 
 📚 Estudando/trabalhando para me tornar um **Dev Full Stack.**<br/>
   
-Eu sou formado em 🎓 **Análise e Desenvolvimento de Sistemas,**
+Eu sou formado em 🎓 **Pós-Graduação de Banco de Dados e Business Intelligence - UNICSUL - Universidade Cruzeiro do Sul,**
 
-e em 🎓 **Pós-Graduação de Banco de Dados e Business Intelligence**
+ 🎓 **Graduação em Análise e Desenvolvimento de Sistemas - UNIP - Universidade Paulista,**
+
+🎓 **Técnico em Desenvolvimento de Sistemas - IFB - Instituto Federal de Brasília**
+
   
 e buscando mais Desenvolvimento pessoal no qual almejo dentre outras metas conquistar 🙏.
 
