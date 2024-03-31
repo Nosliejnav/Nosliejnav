@@ -42,7 +42,7 @@ e buscando mais Desenvolvimento pessoal no qual almejo dentre outras metas conqu
 
 <hr>
 
-<div>
+<div align="right">
 <h3> :earth_americas: &nbsp;Mais informações e contato: </h3> 
 
 
