@@ -12,7 +12,6 @@
 
 <div>
   
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Nosliejnav&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 
 </div>
 <h3> &nbsp; </h3>
@@ -30,11 +29,26 @@ Eu sou formado em 🎓 **Pós-Graduação de Banco de Dados e Business Intellige
 e buscando mais Desenvolvimento pessoal no qual almejo dentre outras metas conquistar 🙏.
 
 </p>
-<br>
+
+<br/>
+<hr />
+
+  <p align="center" href="https://github.com/Nosliejnav">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nosliejnav&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+  </p>
+
+
+
 
 <hr>
 
+<div>
 <h3> :earth_americas: &nbsp;Mais informações e contato: </h3> 
+
 
 [![Linkedin: SEU NOME](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanjeilson)](https://www.linkedin.com/in/vanjeilson)
 [![Gmail Badge](https://img.shields.io/badge/-Microsoft_Outlook-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:vanjeilson@hotmail.com)
+</div>
+  
+  
+
