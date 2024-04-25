@@ -34,9 +34,8 @@ e buscando mais Desenvolvimento pessoal no qual almejo dentre outras metas conqu
 <hr />
 
   <p align="center" href="https://github.com/Nosliejnav">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nosliejnav&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nosliejnav&count_private=true&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
   </p>
-
 
 
 
