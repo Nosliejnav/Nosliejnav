@@ -11,7 +11,7 @@
 
 <h3>📌 Sobre</h3>
 <p>
-Sou um profissional dedicado e apaixonado por Computação Estudando/trabalhando para melhorar minhas Soft Skills & Hard Skills. Com conhecimentos e habilidades tenho a contribuir com soluções inteligentes e eficientes. Com sólido compromisso, mentalidade visando resultados para enfrentar desafios e agregar mais valor.
+Sou um profissional dedicado e apaixonado por Computação Estudando/trabalhando para melhorar minhas Hard Skills & Soft Skills. Com conhecimentos e habilidades tenho a contribuir com soluções inteligentes e eficientes. Com sólido compromisso, mentalidade visando resultados para enfrentar desafios e agregar mais valor.
 </p>
 <p>
 Concluir formações em Tecnologia com experiência inicial profissional, onde fui abençoado a continuar buscando constantemente ampliar meus conhecimentos e minhas qualificações para a atualidade com mais evolução e melhorias no qual almejo dentre outras metas conquistar .
