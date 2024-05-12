@@ -14,21 +14,21 @@
 Sou um profissional dedicado e apaixonado por Computação Estudando/trabalhando para melhorar minhas Hard Skills & Soft Skills. Com conhecimentos e habilidades tenho a contribuir com soluções inteligentes e eficientes. Com sólido compromisso, mentalidade visando resultados para enfrentar desafios e agregar mais valor.
 </p>
 <p>
-Concluir formações em Tecnologia com experiência inicial profissional, onde fui abençoado a continuar buscando constantemente ampliar meus conhecimentos e minhas qualificações para a atualidade com mais evolução e melhorias no qual almejo dentre outras metas conquistar .
+Concluir formações em Tecnologia com experiência inicial profissional, onde fui abençoado a continuar buscando constantemente ampliar meus conhecimentos e minhas qualificações para a atualidade com mais evolução e melhorias no qual almejo dentre outras metas conquistar.
 </p>  
 
 <hr>
 
-<h3>🎓 Formações Acadêmicas</h3>
+<h3>🎓 Formações Academicas</h3>
 <details align="left">
-  <summary></summary> 
+  <summary><i>Clique aqui</i></summary> 
 
 **Mestrado / Doutorado loanding ...**
-- I - **Pós-Graduação de Banco de Dados e Business Intelligence - UNICSUL - Universidade Cruzeiro do Sul**
+- I - **Pós-Graduado de Banco de Dados e Business Intelligence - UNICSUL - Universidade Cruzeiro do Sul**.
 
-- II - **Graduação em Análise e Desenvolvimento de Sistemas - UNIP - Universidade Paulista**
+- II - **Graduação em Análise e Desenvolvimento de Sistemas - UNIP - Universidade Paulista**.
 
-- III - **Técnico em Desenvolvimento de Sistemas - IFB - Instituto Federal de Brasília**
+- III - **Técnico em Desenvolvimento de Sistemas - IFB - Instituto Federal de Brasília**.
   
 **+  Licenças e certificados no Linkedin ☕.**
 
@@ -38,7 +38,7 @@ Concluir formações em Tecnologia com experiência inicial profissional, onde f
 
 <h3>⭐ GitHub Stats</h3>
 <details align="left">
-  <summary></summary> 
+  <summary><b> . . . </b></summary> 
 
   <p align="center" href="https://github.com/Nosliejnav">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nosliejnav&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
