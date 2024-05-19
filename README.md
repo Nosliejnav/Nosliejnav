@@ -9,15 +9,15 @@
 
 <div> </div>
 
-<h3>🏠 <a href="https://github.com/Nosliejnav">DATA ANALYST</a> ( Main Skills & Tools) </h3>
+<h3>🏠 <a href="https://github.com/Nosliejnav">ANALISTA DE DADOS</a> ( Principais habilidades e ferramentas) </h3>
 <!--<details align="left">
   <summary><i><b> . . . </b></i></summary>-->
 
 > - ### Python | Power BI | Excel | ETL | MySQL | SQL Server | T-SQL | Git | GitHub |
 > - ### Visual Studio | VS Code | Jupyter Notebook | Google Colab |
 > - ###  Microsoft Office | Notion | Trello | Figma | Canva |
-  *Professional Licenses & Certifications on LinkedIn* ☕.
-<h3>📌 Learning (BACKEND DEVELOPER) </h3>
+  *+ Licenças e certificados no Linkedin* ☕.
+<h3>📌 Melhorando (DESENVOLVEDOR BACKEND) </h3>
 
 <details align="left">
   <summary><!--<b> . . . </b>--><i>Click here</i></summary>
@@ -73,7 +73,7 @@
 <hr>
 
 <div>
-<h3> :earth_americas: &nbsp;Info & Contact </h3> 
+<h3> :earth_americas: &nbsp;Mais Informações e contato </h3> 
 
 ```bash
 vanjeilson@hotmail.com
