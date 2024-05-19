@@ -13,9 +13,9 @@
 <!--<details align="left">
   <summary><i><b> . . . </b></i></summary>-->
 
-> - ### Python | Power BI | Excel | ETL | MySQL | SQL Server | T-SQL | Git | GitHub |
-> - ### Visual Studio | VS Code | Jupyter Notebook | Google Colab |
-> - ###  Microsoft Office | Notion | Trello | Figma | Canva |
+> - ### Python | Power BI | Excel | ETL | MySQL | SQL Server | T-SQL | Git | GitHub 
+> - ### Visual Studio | VS Code | Jupyter Notebook | Google Colab 
+> - ###  Microsoft Office | Notion | Trello | Figma | Canva 
   *+ Licenças e certificados no Linkedin* ☕.
 <h3>📌 Melhorando (DESENVOLVEDOR BACKEND) </h3>
 
