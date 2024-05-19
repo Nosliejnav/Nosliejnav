@@ -2,28 +2,46 @@
 <br>
 
 <div>
-<img src="https://img.shields.io/static/v1?label=Overview&message=vanjeilson&color=f8efd4&style=for-the-badge&logo=GitHub" > 
+<img src="https://img.shields.io/static/v1?label=Overview&message=vanjeilson&color=0073cc&style=for-the-badge&logo=GitHub" > 
 </div>
 
 <hr>
 
 <div> </div>
 
-<h3>📌 Sobre</h3>
-<p>
-Sou um profissional dedicado e apaixonado por Computação Estudando/trabalhando para melhorar minhas Hard Skills & Soft Skills. Com conhecimentos e habilidades tenho a contribuir com soluções inteligentes e eficientes. Com sólido compromisso, mentalidade visando resultados para enfrentar desafios e agregar mais valor.
-</p>
-<p>
-Concluir formações em Tecnologia com experiência inicial profissional, onde fui abençoado a continuar buscando constantemente ampliar meus conhecimentos e minhas qualificações para a atualidade com mais evolução e melhorias no qual almejo dentre outras metas conquistar.
-</p>  
+<h3>🏠 <a href="https://github.com/Nosliejnav">DATA ANALYST</a> ( Main Skills & Tools) </h3>
+<!--<details align="left">
+  <summary><i><b> . . . </b></i></summary>-->
 
-<hr>
+> - ### Python | Power BI | Excel | ETL | MySQL | SQL Server | T-SQL | Git | GitHub |
+> - ### Visual Studio | VS Code | Jupyter Notebook | Google Colab |
+> - ###  Microsoft Office | Notion | Trello | Figma | Canva |
+  *Professional Licenses & Certifications on LinkedIn* ☕.
+<h3>📌 Learning (BACKEND DEVELOPER) </h3>
 
-<h3>🎓 Formações Academicas</h3>
 <details align="left">
-  <summary><i>Clique aqui</i></summary> 
+  <summary><!--<b> . . . </b>--><i>Click here</i></summary>
+  
+  <div style="display: inline_block"><br>
 
-**Mestrado / Doutorado loanding ...**
+  <img align="center" alt="Eclipse" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+                                                             
+</div>
+</details>
+
+<div> </div>
+
+</details>
+
+<!--
+<hr>
+<h3>🎓 Education Background</h3>
+<details align="left">
+  <summary><i>Click here</i></summary>
+  
+**Master's/ PhD - loanding ...**
 - I - **Pós-Graduado de Banco de Dados e Business Intelligence - UNICSUL - Universidade Cruzeiro do Sul**.
 
 - II - **Graduação em Análise e Desenvolvimento de Sistemas - UNIP - Universidade Paulista**.
@@ -32,17 +50,22 @@ Concluir formações em Tecnologia com experiência inicial profissional, onde f
   
 **+  Licenças e certificados no Linkedin ☕.**
 
-</details>
+</details>-->
 
 <hr>
 
 <h3>⭐ GitHub Stats</h3>
 <details align="left">
-  <summary><b> . . . </b></summary> 
+  <summary> 🔍  </summary>
 
+<br>
+  
+<div/> 
   <p align="center" href="https://github.com/Nosliejnav">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nosliejnav&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nosliejnav&show_icons=true&theme=transparent">
   </p>
+  <div>
+
 
   <div align="right">Made with ❤️ by <a href="https://github.com/Nosliejnav">Vanja</a>.</div>
 
@@ -50,7 +73,11 @@ Concluir formações em Tecnologia com experiência inicial profissional, onde f
 <hr>
 
 <div>
-<h3> :earth_americas: &nbsp;Mais informações e contato: </h3> 
+<h3> :earth_americas: &nbsp;Info & Contact </h3> 
+
+```bash
+vanjeilson@hotmail.com
+```  
 
 [![Linkedin: SEU NOME](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanjeilson)](https://www.linkedin.com/in/vanjeilson)
 [![Gmail Badge](https://img.shields.io/badge/-Microsoft_Outlook-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:vanjeilson@hotmail.com)
