@@ -61,9 +61,11 @@
 <br>
   
 <div/> 
-  <p align="center" href="https://github.com/Nosliejnav">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nosliejnav&show_icons=true&theme=transparent">
-  </p>
+ <div align="center">
+
+![Vanja's github stats](https://github-readme-stats.vercel.app/api?username=Nosliejnav&show_icons=true&theme=transparent_light&hide=stars,issues)
+
+</div>
   <div>
 
 
