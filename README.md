@@ -17,7 +17,7 @@
 > - ### Visual Studio | VS Code | Jupyter Notebook | Google Colab 
 > - ###  Microsoft Office | Notion | Trello | Figma | Canva 
   *+ Licenças e certificados no Linkedin* ☕.
-<h3>📌 Melhorando (DESENVOLVEDOR BACK-END) </h3>
+<h3>📌 Aprimorando (DESENVOLVEDOR BACK-END) </h3>
 
 <details align="left">
   <summary><!--<b> . . . </b>--><i>Click here</i></summary>
