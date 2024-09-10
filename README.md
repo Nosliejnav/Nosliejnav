@@ -57,9 +57,8 @@
 
 <hr>
 
-<h3>⭐ GitHub Stats</h3>
 <details align="left">
-  <summary> 🔍  </summary>
+  <summary> ⭐ GitHub Stats  </summary>
 
 <br>
   
