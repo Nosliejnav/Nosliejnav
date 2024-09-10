@@ -13,24 +13,32 @@
 <!--<details align="left">
   <summary><i><b> . . . </b></i></summary>-->
 
-> - ### Python | Power BI | Excel | ETL | MySQL | SQL Server | T-SQL | Git | GitHub 
+> - ### Python | Power BI | Excel | ETL | MySQL | SQL Server | <!--T-SQL |--> Git | GitHub 
 > - ### Visual Studio | VS Code | Jupyter Notebook | Google Colab 
 > - ###  Microsoft Office | Notion | Trello | Figma | Canva 
   *+ Licenças e certificados no Linkedin* ☕.
-<h3>📌 Aprimorando (DESENVOLVEDOR BACK-END) </h3>
+<h3>📌 Aprimorando (FULL STACK DEVELOPER) </h3>
 
 <details align="left">
   <summary><!--<b> . . . </b>--><i>Click here</i></summary>
   
   <div style="display: inline_block"><br>
 
+
   <img align="center" alt="Eclipse" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
 
   <img align="center" alt="intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
   
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  
   <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-                                                             
+
+  <img align="center" alt="react" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+
+  <!--<img align="center" alt="angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />-->
+
+
+                                                       
 </div>
 </details>
 
