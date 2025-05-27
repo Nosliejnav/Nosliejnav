@@ -87,9 +87,6 @@
 <div>
 <h3> :earth_americas: &nbsp;Mais Informações e contato </h3> 
 
-```bash
-vanjeilson@hotmail.com
-```  
 
 [![Linkedin: SEU NOME](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanjeilson)](https://www.linkedin.com/in/vanjeilson)
 </div>
