@@ -92,7 +92,6 @@ vanjeilson@hotmail.com
 ```  
 
 [![Linkedin: SEU NOME](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanjeilson)](https://www.linkedin.com/in/vanjeilson)
-[![Gmail Badge](https://img.shields.io/badge/-Microsoft_Outlook-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:vanjeilson@hotmail.com)
 </div>
   
 
