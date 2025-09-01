@@ -29,7 +29,7 @@
 
 <div>
 <a href="https://www.linkedin.com/in/vanjeilson/">
-  <img align="left" width="56px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="left" width="46px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 </div>
 
