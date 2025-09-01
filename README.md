@@ -20,7 +20,9 @@
 <br>
 
 
-[![Vanjeilson LinkedIn](https://img.shields.io/static/v1?label=Vanjeilson&message=linkedin&color=0073cc&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vanjeilson/)
+<a href="https://www.linkedin.com/in/vanjeilson/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/static/v1?label=Vanjeilson&message=linkedin&color=0073cc&style=for-the-badge&logo=linkedin" alt="Vanjeilson LinkedIn" />
+</a>
 
 <br>
 <br>
