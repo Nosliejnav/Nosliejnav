@@ -21,17 +21,18 @@
 
 
 <div>
-<a href="https://www.linkedin.com/in/vanjeilson/">
-<img align="left"  src="https://img.shields.io/static/v1?label=Vanjeilson&message=linkedin&color=0073cc&style=for-the-badge&logo=GitHub" > 
+  <a href="https://www.linkedin.com/in/vanjeilson/">
+    <img align="left"  src="https://img.shields.io/static/v1?label=Vanjeilson&message=linkedin&color=0073cc&style=for-the-badge&logo=GitHub" >
+  </a>
 </div>
 
 <br>
 <br>
 
 <div>
-<a href="https://www.linkedin.com/in/vanjeilson/">
-  <img align="left" width="46px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
+  <a href="https://www.linkedin.com/in/vanjeilson/">
+    <img align="left" width="46px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  </a>
 </div>
 
 <br>
